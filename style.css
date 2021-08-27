@@ -1,7 +1,7 @@
 body {
     font-size: 18px;
     color: #6c767d;
-    background-color: #ebf1f5;
+ 
     height: 100vh;
     min-height: 800px;
 }
@@ -99,7 +99,7 @@ strike {
 
 .photo-bg {
     /* background-image: url(assets/background.jpg); */
-    background-image: url(./img/2677427344.png);
+    background-image: url(./test.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
